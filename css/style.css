@@ -90,7 +90,7 @@ button {
     color: hsl(0, 0%, 100%);
     font-weight: 700;
     background-color: hsl(198, 60%, 50%);
-    margin: 0 auto 50px auto;
+    margin: 0 auto 80px auto;
     border: none;
     border-radius: 30px;
 }
@@ -99,3 +99,45 @@ button:hover {
     background-color: hsl(176, 68%, 64%);
     cursor: pointer;
 };
+
+.intro-01 {
+    width: 100%;
+    height: auto;
+}
+
+.container-00 {
+    width: 80%;
+    display: flex;
+    margin: 30px auto 30px auto;
+    height: auto; 
+}
+
+.container-01 {
+    width: 50%;
+    margin: 30px auto 30px auto;
+    height: auto; 
+}
+
+.container-01 h2 {
+    font-size: 1.2rem;  
+    margin-bottom: 5px;
+    text-align: center;
+    padding: 0;
+}
+
+.container-01 p {
+    font-size: 0.8rem; 
+    text-align: center;
+    line-height: 1.1rem; 
+    margin: 0 auto 0 auto;
+    width: 63%; 
+    padding: 0;
+}
+
+.container-01 img {
+    margin: 10px auto 15px auto;
+    display: flex;
+    align-items: center;
+    width: 83px;
+    height: 78px;
+}

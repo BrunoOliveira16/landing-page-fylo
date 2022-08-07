@@ -15,4 +15,14 @@ Construir esta página de destino para que seus usuários devam ser capazes de:
 - Layout Responsivo;
 - Pratica com Flexbox e Grid;
 
-em andamento...
+# SCREENSHOT
+
+Projeto em andamento, em breve postarei a screenshot do projeto.
+
+# LINK PARA NAVEGADOR
+
+Para visualizar o projeto no seu navegador utilize o link abaixo: 
+(OBS: projeto em andamento e em fase de testes, build temporária para ir acompanhando o avanço do projeto.)
+
+https://brunooliveira16.github.io/landing-page-fylo/
+
