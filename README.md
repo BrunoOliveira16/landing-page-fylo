@@ -17,7 +17,7 @@ Construir esta página de destino para que seus usuários devam ser capazes de:
 
 # SCREENSHOT
 
-Projeto em andamento, em breve postarei a screenshot do projeto.
+![Screenshot](./img/desktop-preview.jpg)
 
 # LINK PARA NAVEGADOR
 
