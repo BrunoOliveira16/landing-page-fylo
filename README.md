@@ -1,28 +1,30 @@
-# landing-page-fylo
-Projeto de desafio do Frontend Mentor para construção de uma Landig Page responsiva
+# 📝 Desafio landing-page-fylo
+Projeto de desafio do Frontend Mentor para criação de uma Landig Page responsiva
 
-# APRESENTAÇÃO
+<h4><a href="https://brunooliveira16.github.io/landing-page-fylo/">Link do desafio</a></h4>
+
+## 💻 Screenshot do projeto
+
+Designer 01
+![Screenshot](./img/desktop-preview.jpg)
+
+<h4 align="center"><a href="https://brunooliveira16.github.io/landing-page-fylo/">Clique aqui e visite o projeto</a></h4>
+
+## 📚 Descrição
 
 Construir esta página de destino para que seus usuários devam ser capazes de:
+- **Layout Responsivo:** Visualize o layout ideal para o site, dependendo do tamanho da tela do dispositivo;
+- **Interação dos elementos:** Veja os estados de foco para todos os elementos interativos na página;
+---
 
-- Visualize o layout ideal para o site, dependendo do tamanho da tela do dispositivo;
-- Veja os estados de foco para todos os elementos interativos na página;
-
-# METODOLOGIA
+## 💼 Tecnologias utilizadas
 
 - HTML;
 - CSS;
-- Layout Responsivo;
-- Pratica com Flexbox e Grid;
 
-# SCREENSHOT
+---
 
-![Screenshot](./img/desktop-preview.jpg)
+## 🙋🏻‍♂️ Autor
 
-# LINK PARA NAVEGADOR
-
-Para visualizar o projeto no seu navegador utilize o link abaixo: 
-(OBS: projeto em andamento e em fase de testes, build temporária para ir acompanhando o avanço do projeto.)
-
-https://brunooliveira16.github.io/landing-page-fylo/
+Bruno Oliveira
 
