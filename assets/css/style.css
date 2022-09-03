@@ -1,0 +1,281 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1440px;
+    min-width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: hsl(218, 28%, 13%);
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+
+header {
+    padding: 30px;
+    display: flex;
+}
+
+.lista-nav {
+    width: 100%;  
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1rem;  
+}
+
+.nav-list li {
+    display: flex;
+    margin-right: 40px;
+    font-family: 'Raleway';
+    font-weight: 400;
+}
+
+.nav-list li:hover {
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.logo-img {
+    width: 100px;
+    margin-bottom: 40px;
+}
+
+.intro {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.intro img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro h1, p {
+    text-align: center;
+    padding: 30px;
+    font-size: 2rem;
+    width: 50%;
+    margin: 20px auto 0 auto;
+}
+
+.intro p {
+    font-size: 1rem;
+    margin-top: 0;
+    line-height: 1.5rem;
+    padding-top: 0;
+    width: 40%;
+}
+
+button {
+    width: 18%;
+    height: 50px;
+    font-size: 1rem;
+    font-family: 'Raleway';
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    background-color: hsl(198, 60%, 50%);
+    margin: 0 auto 80px auto;
+    border: none;
+    border-radius: 30px;
+}
+
+button:hover {
+    background-color: hsl(176, 68%, 64%);
+    cursor: pointer;
+};
+
+.intro-01 {
+    width: 100%;
+    height: auto; 
+}
+
+.container-00 {
+    width: 80%;
+    display: flex;
+    margin: 30px auto 30px auto;
+    height: auto;
+}
+
+.container-01 {
+    width: 50%;
+    margin: 30px auto 30px auto;
+    height: auto; 
+}
+
+.container-01 h2 {
+    font-size: 1.2rem;  
+    margin-bottom: 5px;
+    text-align: center;
+    padding: 0;
+}
+
+.container-01 p {
+    font-size: 0.8rem; 
+    text-align: center;
+    line-height: 1.1rem; 
+    margin: 0 auto 0 auto;
+    width: 63%; 
+    padding: 0;
+}
+
+.container-01 img {
+    margin: 10px auto 15px auto;
+    display: flex;
+    align-items: center;
+    width: 83px;
+    height: 78px;
+}
+
+.intro-02, .intro-03 {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.intro-02 img {
+    width: 90%;
+    height: auto;
+}
+
+.intro-02 h1 {
+    text-align: left;
+    font-size: 2rem;
+    padding: 10px 200px 10px 20px;
+}
+
+.intro-02 p, a {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    text-align: left;
+    margin: 0 !important;
+    padding: 10px 10px 10px 20px;
+    width: 100%;
+}
+
+.intro-02 a {
+    color: hsl(176, 68%, 64%);
+}
+.intro-02 a:hover {
+    color: hsl(0, 0%, 100%);
+}
+
+.container-02 {
+    width: 31%;
+    background-color: hsl(219, 30%, 18%);
+    color: white;
+    margin-top: 50px;
+    position: relative;
+}
+
+.container-02 img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: 38px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.min-container{
+    display: flex;
+}
+
+.min-container p, .text-01 p {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+}
+
+.text, .text-01 {
+    display: flex;
+    flex-direction: column;
+}
+
+
+blockquote {
+    font-size: 0.5rem;
+    font-weight: 400;
+}
+
+.intro-03 {
+    justify-content: space-between;
+}
+
+.intro-03 p {
+    font-size: 0.8rem;
+    font-weight: 400;
+    line-height: 1rem;
+    text-align: left;
+    padding: 0 30px 0 20px;
+    margin: 40px auto 20px auto;
+    width: 90%;
+}
+
+.intro-04 {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto 20px auto;
+}
+
+.container-04 {
+    width: 60%;
+    margin: 30px auto 10px auto;
+    background-color: hsl(217, 28%, 15%);
+    position: relative;
+    top: 130px;
+    border-radius: 10px;
+}
+
+.container-04 p {
+    font-size: 1rem;
+    font-weight: 400;
+    width: 100%;
+    padding: 10px 50px 10px 50px;
+    margin-top: 0;
+}
+
+.container-04 h1 {
+    font-size: 2rem;
+    line-height: 6rem;
+    margin-bottom: 0;
+}
+
+.container-05 {
+    display: flex;
+}
+
+input {
+    width: 50%;
+    height: 40px;
+    border-radius: 30px;
+    padding-left: 30px;
+    margin: 40px 10px 40px auto ;
+}
+
+.container-05 button {
+    width: 25%;
+    height: 40px;
+    margin: 40px auto 40px 10px ;
+}
+
+.quotes img {
+    position: relative;
+    bottom: 70px;
+    left: 55px;
+}

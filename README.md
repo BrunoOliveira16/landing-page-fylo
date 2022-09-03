@@ -17,7 +17,12 @@ Construir esta página de destino para que seus usuários devam ser capazes de:
 
 # SCREENSHOT
 
-![Screenshot](./img/desktop-preview.jpg)
+- Designer 01
+![Screenshot](./assets/img/desktop-preview.jpg)
+
+- Designer 02
+![Screenshot](./assets/img/desktop-preview-01.jpg)
+
 
 # LINK PARA NAVEGADOR
 
