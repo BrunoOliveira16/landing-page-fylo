@@ -1,7 +1,7 @@
-# 📝 Desafio landing-page-fylo
+## 📝 Desafio landing-page-fylo
 Projeto de desafio do Frontend Mentor para criação de uma Landig Page responsiva
 
-<h4><a href="https://brunooliveira16.github.io/landing-page-fylo/">Link do desafio</a></h4>
+<h4><a href="https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd">Link do desafio</a></h4>
 
 ## 💻 Screenshot do projeto
 
